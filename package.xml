@@ -3,9 +3,9 @@
 <package format="3">
   <name>gazebo_no_physics_plugin</name>
   <version>0.1.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="leandro.ruiz@mtorres.com">mtorres</maintainer>
-  <license>TODO: License declaration</license>
+  <description>Disables physics in gazebo</description>
+  <maintainer email="Jason.Cochrane@boeing.com">Boeing</maintainer>
+  <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <build_depend>gazebo_ros</build_depend>
