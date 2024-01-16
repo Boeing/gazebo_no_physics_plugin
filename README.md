@@ -1,3 +1,7 @@
+| Distro | CI Status                                                                                                                                                                                     |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Humble | [![CI](https://github.com/Boeing/gazebo_no_physics_plugin/actions/workflows/main.yml/badge.svg?branch=humble)](https://github.com/Boeing/gazebo_no_physics_plugin/actions/workflows/main.yml) |
+
 # Gazebo No Physics Plugin
 
 ## Motivation
